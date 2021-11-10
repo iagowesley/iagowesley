@@ -1,4 +1,4 @@
--  Hi, I’m  o Iago Wesley
+-  Eu sou o Iago Wesley
 -  Estudante de Engenharia de Software
 -  Em busca do front-end 
 -  Russas
