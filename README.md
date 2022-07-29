@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagowesleey/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://iagowesley.github.io/portfolio-basic/)
 
-![Iago Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=iagowesley&show_icons=true&theme=onedark)
-
 ## Tecnologias que eu uso
 
 <div>
